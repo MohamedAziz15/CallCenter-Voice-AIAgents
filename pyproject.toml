@@ -1,0 +1,7 @@
+[project]
+name = "call-center-voice-ai-agents"
+version = "0.1.0"
+description = "Building a call center voice AI agent using LangChain, OpenAI."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
