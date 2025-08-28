@@ -2,6 +2,17 @@
 
 ![Voice AI Agent Architecture](Voice_AI_Agent_Archticture.drawio)
 
+### Setup
+
+#### create `.env` :
+```
+DEEPGRAM_API_KEY=
+CARTESIA_API_KEY=
+GROQ_API_KEY=
+LIVEKIT_URL=
+LIVEKIT_API_KEY=
+LIVEKIT_API_SECRET=
+```
 
 
 ### Drive-thru prompt : 
