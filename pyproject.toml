@@ -4,4 +4,6 @@ version = "0.1.0"
 description = "Building a call center voice AI agent using LiveKit, OpenAI."
 readme = "README.md"
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "livekit-agents[elevenlabs,google]~=1.2",
+]
